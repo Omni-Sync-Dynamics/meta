@@ -99,13 +99,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "07df963cba34a3da",
@@ -175,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +187,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd69ae5f994769f6",
+  "active": "69a67825267a3cfa",
   "lastOpenFiles": []
 }
