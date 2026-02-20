@@ -1,0 +1,16 @@
+{
+  "uuid": "faljt2wbpn9fzd7wrkui7m",
+  "gates": {
+    "aHR0cHM6Ly9naXRodWIuY29tL2J1bWJsZWJlZS1lZw==": {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL2J1bWJsZWJlZS1lZw==",
+      "title": "BumbleBee",
+      "icon": "<svg viewBox=\"0 0 100 100\" style=\"filter: invert(100%);\">\n  <image href=\"https://icon.horse/icon/github.com\" height=\"100\" width=\"100\" />\n</svg>\n",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://github.com/bumblebee-eg",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    }
+  }
+}
