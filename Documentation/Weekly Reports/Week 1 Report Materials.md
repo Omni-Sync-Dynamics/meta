@@ -20,7 +20,7 @@
 		- [[Arm v1]]
 		- [[Arm v2]]
 	- [[Arm Power System Architecture.pdf|Arm Electrical and Electronics Architecture]]
-	- [[power block diagram]]
+	- [[Power Block Diagram]]
 	- [[Embedded block diagram]]
 	- [[Autonomous block diagram]]
 	- [[Control Block diagram]]
