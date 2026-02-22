@@ -16,3 +16,8 @@
 ```markdown
 [![PDF Report](https://img.shields.io/badge/View-PDF_Report-red?style=for-the-badge&logo=adobeacrobatreader)](path/to/your/report.pdf)
 ```
+## Native Options
+- [mscott99/Latex-Exporter](https://github.com/mscott99/Latex-Exporter) (Most Native, Handles Include Graphics | No LaTeX code used)
+- [gboyd068/obsidian-swiftlatex-render](https://github.com/gboyd068/obsidian-swiftlatex-render) (LaTeX block used, does not handle include graphics)
+- [artisticat1/obsidian-tikzjax: Render LaTeX and TikZ diagrams in your notes](https://github.com/artisticat1/obsidian-tikzjax) (handy)
+- [Building an app to take notes with LaTeX and Obsidian](https://www.youtube.com/watch?v=DvBRBo5txoA) (Advanced solution)
