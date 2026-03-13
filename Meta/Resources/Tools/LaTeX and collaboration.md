@@ -16,6 +16,9 @@
 ```markdown
 [![PDF Report](https://img.shields.io/badge/View-PDF_Report-red?style=for-the-badge&logo=adobeacrobatreader)](path/to/your/report.pdf)
 ```
+- Extra
+	- [Include vs input in LaTeX, when to use them and main differences - YouTube](https://www.youtube.com/watch?v=V_eCCNlBuMo)
+	- [My favorite LaTeX Tricks to save time - YouTube](https://www.youtube.com/watch?v=UzMRZowz1xI)
 ## Native Options
 - [mscott99/Latex-Exporter](https://github.com/mscott99/Latex-Exporter) (Most Native, Handles Include Graphics | No LaTeX code used)
 - [gboyd068/obsidian-swiftlatex-render](https://github.com/gboyd068/obsidian-swiftlatex-render) (LaTeX block used, does not handle include graphics)

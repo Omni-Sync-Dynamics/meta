@@ -10,4 +10,6 @@ allPaths = genpath(mainProjectRoot);
 % 3. Add all generated paths to the MATLAB search path.
 addpath(allPaths);
 
+clear
+
 disp('Successfully added project root and all subfolders to the MATLAB path.');
